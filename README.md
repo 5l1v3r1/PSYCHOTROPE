@@ -97,11 +97,6 @@ what else ? you need to scan links with cookies ?
 - So to use it simply run cookies_convert.py and  paste your cookie string. 
 - Simple example : copy cookies from burpsuite and paste it into cookies_convert.py you will get dictionary output result, copy & paste it into PSYCHOTROPE.py and Start Your Scanning Target.
 
-How to use ??
-------------
-### How Convert Cookie String To Cookie Dictionnary
-[![Cookie_Converter](https://asciinema.org/a/hccYaFiDzgUvS0DgGYpPB4NVg.svg)](https://asciinema.org/a/hccYaFiDzgUvS0DgGYpPB4NVg)
-
 About List
 ----------
 ### Note: Don't Delete All This Files Names !
