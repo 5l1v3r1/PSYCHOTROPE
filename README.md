@@ -33,7 +33,7 @@ Installation & Usage
 =========
 ### NOTE: PSYCHOTROPE is made with python and requires python2 to run perfectly.
 ```
-git clone https://github.com/kamalkarlos/PSYCHOTROPE_scanner.git
+git clone https://github.com/kamalkarlos/PSYCHOTROPE.git
 cd PSYCHOTROPE_scanner
 pip install -r requirements.txt OR pip2 install dnspython
 python Psycho.py
@@ -82,8 +82,6 @@ Why PSYCHOTROPE?
   - [21] ~ Hidden Parameter Discovery
 - Dorking
   - [22] ~ Bing Dorker | Sub Binger
-### PSYCHOTROPE Scanner Screen
-[![PSYCHOTROPE](https://asciinema.org/a/MaWuJvmjRqNQQJ8zuspt0WygH.svg)](https://asciinema.org/a/S34vc8VuRs07vwrpHiRb7xEtF)
 
 You have a secret payloads?
 ------------------
