@@ -2,9 +2,8 @@ PSYCHOTROPE Tool Scanner
 =========
 
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
-![YouTube Video Likes](https://img.shields.io/youtube.com/channel/UC3_55SSunNsNFDVCQhO_5Mg)
 <a href="https://instagram.com/capitoskamal/">
-    ![Tweet](https://img.shields.io/instagram/url?url=https%3A%2F%2Fgithub.com%2Fmaurosoria%2Fdirsearch)
+    ![Instagram](https://img.shields.io/instagram/url?url=https%3A%2F%2Fgithub.com%2Fmaurosoria%2Fdirsearch)
 </a>
 
 
