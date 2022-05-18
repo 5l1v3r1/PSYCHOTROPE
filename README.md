@@ -27,7 +27,7 @@ What is PSYCHOTROPE ?
 
 - PSYCHOTROPE is an awsome tool which is made with python 2 that is switching your manual recon (Discovering, scanning, fuzzing and full recon methodology and more ...) into an automated one, which makes your bug hunting and your life much easier.
 
-- PSYCHOTROPE is being developed by [Trojan Kil3r Amazigh](https://twitter.com/Kil3rdz)
+- PSYCHOTROPE is being developed by [Capitos Kamal](https://instagram/capitoskamal/)
 
 Installation & Usage
 =========
@@ -49,12 +49,6 @@ python PSYCHOTROPE.py
 
 ```
 - If You Are Using Windows 7 Please Install This Cmder | Console Emulator https://cmder.net/
-
-Video How You Install And Run PSYCHOTROPE Tool !
----------------------------------------
-
-[![PSYCHOTROPE_install](https://asciinema.org/a/Pf0WCyc4PY7aFjioLhjJKKydS.svg)](https://asciinema.org/a/Pf0WCyc4PY7aFjioLhjJKKydS)
-
 
 Why PSYCHOTROPE?
 =========
